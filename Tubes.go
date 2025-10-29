@@ -1,3 +1,4 @@
+// komentar tambahan untuk tugas
 package main
 
 import "fmt"
